@@ -5,6 +5,6 @@
 - 📫 How to reach me alot of ways:
 - Telegram and what's :+963 938451008.
 - email:alih1996913@hotmail.com,alooosh996913@gmail.com
-- linkedin:Muhammad Ali Alhamid.
+- linkedin:[Muhammad Ali Alhamid.](https://www.linkedin.com/in/muhammad-ali-alhamid-8776a4a6 "LinkedIN Profile")
 
 
