@@ -1,4 +1,4 @@
-- 👋 Hello world, I’m Muhammad Al Alhamid I studied biomedical engeering but i took an interest in A.I applications in the medical sector.
+- 👋 Hello world, I’m Muhammad Ali Alhamid I studied biomedical engeering but i took an interest in A.I applications in the medical sector.
 - 👀 I’m interested in A.I Deep learning GANs and NLP(I love learning other spoken languges my fav is italian 💞).
 - 🌱 I’m currently learning GANs.
 - 💞️ I’m looking to collaborate on creating synthetic medical data.
